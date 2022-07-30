@@ -1,0 +1,7 @@
+{
+  "workbench.settings.useSplitJSON": true,
+  "editor.minimap.enabled": false,
+  "files.exclude": {
+    "**/*.spec.ts": true
+  }
+}
